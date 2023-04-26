@@ -39,6 +39,7 @@ color:darkblue;
     background-repeat: no-repeat;
 }
 td{
+    text-align: justify;
     font-style: italic;
     font-weight: bold;
     font-size:8pt;
