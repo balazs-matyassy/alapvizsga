@@ -1,0 +1,13 @@
+https://hu.wikipedia.org/wiki/Francia_Rivi%C3%A9ra
+
+A spanyol szárazföldet délről és keletről a Földközi-tenger (amelyben az országhoz tartozó Baleár-szigetek fekszenek), északról a Vizcayai-öböl és nyugatról az Atlanti-óceán határolja. A szárazföldön Portugáliával, Franciaországgal, Andorrával és Gibraltárral határos. Spanyolország a legnagyobb a három független államból, amelyek az Ibériai-félszigeten fekszenek. Fővárosa és egyben legnépesebb városa Madrid.
+
+<img class="img-fluid img-thumbnail leb" src="kep/szlovén.jpg" alt="Szlovénia" title="Szlovénia">
+            <h6>Szlovénia</h6>
+            <ul>
+              <li>Piran</li>
+              <li>Portoroz</li>
+              <li>Izola</li>
+              <li>Koper</li>
+              <li>Strunjan</li>
+            </ul>

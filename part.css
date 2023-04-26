@@ -1,0 +1,53 @@
+
+h6{
+    text-align: center;
+    font-weight:bold;
+}
+
+
+a,h2{
+    color: darkblue;
+    font-weight: bold;
+}
+a:hover{
+   
+}
+
+hr{
+    height: 3px;
+    background-color: darkblue;
+    width: 80%;
+}
+.nagy{
+    text-transform: uppercase;
+    color:blue;
+}
+
+h1{
+font-size:50px;
+text-align: center;
+font-weight: bolder;
+color:darkblue;
+
+}
+#fo{
+    max-width: 1400px;
+    background-size: cover;
+    background-position: center;
+    
+    
+    
+}
+td{
+    font-style: italic;
+    font-weight: bold;
+    font-size:8pt;
+}
+body{
+    font-size: 12pt;
+}
+
+}
+.leb{
+    
+}
