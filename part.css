@@ -36,7 +36,7 @@ color:darkblue;
     background-position: center;
     background-image: url("kep/part.jpg");
     background-attachment: fixed;
-    
+    background-repeat: no-repeat;
 }
 td{
     font-style: italic;
@@ -47,7 +47,6 @@ body{
     font-size: 12pt;
 }
 
-}
 .leb{
     
 }
