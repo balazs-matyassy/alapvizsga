@@ -34,8 +34,8 @@ color:darkblue;
     max-width: 1400px;
     background-size: cover;
     background-position: center;
-    
-    
+    background-image: url("kep/part.jpg");
+    background-attachment: fixed;
     
 }
 td{
